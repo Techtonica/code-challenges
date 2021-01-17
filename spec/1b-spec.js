@@ -1,7 +1,10 @@
 const lowercase = require('../challenges/1b.js');
 
-describe("lowercase(str)", () => {
-  it("should lower-case a string", () => {
+describe("Challenge 1a:", () => {
+  it("lowercase('CSI Miami') should return 'csi miami'", () => {
     expect(lowercase("CSI Miami")).toEqual("csi miami");
+  });
+  it("lowercase('eRmAgErD') should return 'ermagerd'", () => {
+    expect(lowercase("eRmAgErD")).toEqual("eRmAgErD");
   });
 });

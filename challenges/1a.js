@@ -12,7 +12,6 @@
 
 function sum(a, b){
   return(
-    9
     // replace this line with your code
   );
 }
