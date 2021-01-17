@@ -5,6 +5,6 @@ describe("Challenge 1a:", () => {
     expect(lowercase("CSI Miami")).toEqual("csi miami");
   });
   it("lowercase('eRmAgErD') should return 'ermagerd'", () => {
-    expect(lowercase("eRmAgErD")).toEqual("eRmAgErD");
+    expect(lowercase("eRmAgErD")).toEqual("ermagerd");
   });
 });
