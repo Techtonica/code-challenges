@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Techtonica",
+  "license": "ISC"
+}
