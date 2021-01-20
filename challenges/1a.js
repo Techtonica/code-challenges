@@ -12,7 +12,7 @@
 
 function sum(a, b){
   return(
-    // replace this line with your code
+    a + b
   );
 }
 
