@@ -11,9 +11,7 @@
 // * Remember: Only spend your allotted time on this code challenge, which is intended as practice. If you would like to work on it later, write yourself a note and do it when you have spare studying time.
 
 function sum(a, b){
-  return(
-    // replace this line with your code
-  );
+  return(a+b);
 }
 
 module.exports = sum;
