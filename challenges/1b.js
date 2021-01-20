@@ -8,9 +8,7 @@
 // * Remember: Only spend your allotted time on this code challenge, which is intended as practice. If you would like to work on it later, write yourself a reminder and do it when you have spare studying time.
 
 function lowercase(string){
-  return(
-    // replace this line with your code
-  );
+  return(string.toLowerCase());
 }
 
 module.exports = lowercase;
