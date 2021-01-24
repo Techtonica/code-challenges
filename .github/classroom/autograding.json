@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "113-test",
+      "setup": "",
+      "run": "npm run test",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
