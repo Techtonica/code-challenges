@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "113-test",
+      "name": "new",
       "setup": "",
-      "run": "npm run test",
+      "run": "npm run test spec/$CHALLENGE-spec.js",
       "timeout": 1,
       "points": 1
     }
