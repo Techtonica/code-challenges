@@ -3,7 +3,7 @@
     {
       "name": "new",
       "setup": "",
-      "run": "npm run test spec/$CHALLENGE-spec.js",
+      "run": "npm run test --onlyChanged",
       "timeout": 1,
       "points": 1
     }
