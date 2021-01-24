@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "only changed",
+      "name": "test all",
       "setup": "",
-      "run": "npm run test --onlyChanged",
+      "run": "npm run test",
       "timeout": 1,
       "points": 1
     }
