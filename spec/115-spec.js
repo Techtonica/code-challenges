@@ -9,8 +9,8 @@ let items = [
 
 // assumes 2021-02-04 code challenge date.  This will need to be updated every cohort.
 let oldItems = [
-  { name: 'Soy milk', expiryDate: '2021-01-01' },
-  { name: 'Sirloin', expiryDate: '2021-01-05' }
+  'Soy milk',
+  'Sirloin',
 ];
 
 describe("Challenge 115:", () => {
