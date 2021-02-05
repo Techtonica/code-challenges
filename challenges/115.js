@@ -15,7 +15,7 @@
 // The 'Soy milk' is 19 days beyond its expiry date.
 // ```
 //
-// In addition, from the function return an array containing the names of any items that are greater than 7 days past their expiry date and should be discarded.
+// In addition, from the function return an array containing the objects of any items that are greater than 7 days past their expiry date and should be discarded.
 //
 // Example
 //
@@ -33,7 +33,10 @@
 //
 // // returns:
 //
-// // ['Soy milk', 'Sirloin']
+// //[
+//   { name: 'Soy milk', expiryDate: '2021-01-01' },
+//   { name: 'Sirloin', expiryDate: '2021-01-05' }
+// ]
 
 
 
