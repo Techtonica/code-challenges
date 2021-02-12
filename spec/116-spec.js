@@ -10,7 +10,7 @@ describe("Challenge 116:", () => {
     expect(marceline.speak()).toEqual('Marceline want a cracker!');
   });
   it("let anonymous = new Parrot(); anonymous.speak() should return 'A nameless parrot want a cracker!'", () => {
-    let anonymous = let anonymous = new Parrot();
+    let anonymous = new Parrot();
     expect(anonymous.speak()).toEqual('A nameless parrot want a cracker!');
   });
 });
