@@ -46,4 +46,4 @@ Welcome to your daily practice challenge! You only need to do one challenge per 
 
 ### Technology
 
-  This project uses Jasmine to test JavaScript files.
+  This project uses Jest to test JavaScript files.

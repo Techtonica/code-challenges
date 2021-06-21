@@ -1,14 +1,14 @@
 {
-  "name": "jasmine-project",
+  "name": "code-challenges",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "jasmine": "^3.6.3"
+    "jest": "*"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jasmine"
+    "test": "jest"
   },
   "author": "Techtonica",
   "license": "ISC"

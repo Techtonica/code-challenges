@@ -22,7 +22,7 @@ Due to a known GitHub classroom quirk, it seems you can only add remote repo tes
 
 1. Create challenge and test files.
     - Add a js challenge file in the `challenges` folder with the name of the challenge, ex: `1a.js`.  
-    - Add a js test file in the `spec` folder with the name of the challenge, ex: `1a-spec.js`.  We are using basic jasmine input/output tests, since participants have access to the tests. Also, this is part of the stack they will learn!
+    - Add a js test file in the `spec` folder with the name of the challenge, ex: `1a-spec.js`.  We are using basic jest input/output tests, since participants have access to the tests. Also, this is part of the stack they will learn!
     - Follow the patterns for exporting and importing from the corresponding code challenge, and run them in your terminal to QA: `npm run test spec/1a-spec.js`.  Remember to leave the function empty before committing if you were testing your own code inside.
     - If you are confident, push directly to main, otherwise create a branch and a PR.
     - Once the new challenge/tests are merged, you can bring them into GitHub Classroom.
