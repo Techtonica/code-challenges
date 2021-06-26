@@ -1,12 +1,12 @@
 // Given 2 strings, a and b,
 // return the number of the positions
 // where they contain the same 2-character substrings.
-// So "xxcaazz" and "xxbaaz" yields 3,
+// So "xxcaazz" and "xxbaazb" yields 3,
 // since the "xx", "aa", and "az" substrings
 // appear in the same indices in both strings.
 // You can assume that the string arguments will be the same length.
 //
-// string_match('xxcaazz', 'xxbaaz') → 3
+// string_match('xxcaazz', 'xxbaazb') → 3
 //
 // string_match('abc', 'abc') → 2
 //
