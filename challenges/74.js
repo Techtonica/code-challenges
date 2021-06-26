@@ -13,4 +13,4 @@ function sum13(int_array){
   return
 }
 
-module.exports = sum13;
+module.exports = sum13; 
