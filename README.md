@@ -10,6 +10,7 @@ Welcome to your daily practice challenge! You only need to do one challenge per 
   - In your terminal make sure your current directory is where you normally keep coding projects.  
   - Enter `git clone <paste-URL-here>`.  Ex. `git clone https://github.com/Techtonica/code-challenge-1a-chochan.git`
   - You should now be able to navigate to your new project: `cd code-challenge-1a-chochan`.  You can check on the name using `ls` first to make sure.
+  - run `npm install` in your shell to populate the package dependencies
   - Open it in your preferred IDE.  Ex: `code .`
   - If today's code challenge is 1a, find `challenges > 1a.js` and get to work.
   - Check out the Testing section below to take advantage of our unit tests.
