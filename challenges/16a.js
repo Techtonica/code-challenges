@@ -1,6 +1,6 @@
 // Create a function that will print a statement about animals and their young.  The function animals() should accept two array arguments of equal length, so that calling:
 //
-// animals(["dog", "cat", "horse"], ["pups", "kittens", "foals"]);
+// animals(["dogs", "cats", "horses"], ["pups", "kittens", "foals"]);
 //
 // should return this string:
 //
@@ -8,7 +8,7 @@
 //
 // Example 1:
 //
-// animals(["dog", "cat", "horse"], ["pups", "kittens", "foals"]);
+// animals(["dogs", "cats", "horses"], ["pups", "kittens", "foals"]);
 //
 // --->
 //
@@ -16,7 +16,7 @@
 //
 // Example 2:
 //
-// animals(["cow", "eagle", "deer"], ["calves", "chicks", "fawns"]);
+// animals(["cows", "eagles", "deers"], ["calves", "chicks", "fawns"]);
 //
 // --->
 //
